@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying software development at the National Polytechnic School.<br>I'm currently learning web development .<br>I am looking for opportunities to carry out my pre-professional practices.
+I'm currently studying software development at the National Polytechnic School.<br>Currently, I'm learning web development .<br>I am looking for opportunities to carry out my pre-professional practices.
 
 
 ## 🌐 Socials:
